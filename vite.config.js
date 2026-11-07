@@ -1,7 +1,11 @@
 import { defineConfig } from 'vite'
-// ... (tus otros imports como react o vue)
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/frontii/', // <-- Agrega esta línea
-  // ... resto de tu configuración
+  plugins: [
+    react(),
+    tailwindcss()
+  ],
+  base: '/frontii/'
 })
