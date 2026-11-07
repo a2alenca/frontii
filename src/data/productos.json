@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p-001",
+    "nombre": "Manzana roja",
+    "descripcion": "Manzanas frescas seleccionadas, ideales para colaciones y preparaciones saludables.",
+    "categoria": "Frutas y verduras",
+    "precio": 1290,
+    "unidad": "kg",
+    "stock": 24,
+    "imagen": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=900"
+  },
+  {
+    "id": "p-002",
+    "nombre": "Plátano",
+    "descripcion": "Plátanos maduros y dulces, vendidos por kilogramo.",
+    "categoria": "Frutas y verduras",
+    "precio": 1190,
+    "unidad": "kg",
+    "stock": 18,
+    "imagen": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=900"
+  },
+  {
+    "id": "p-003",
+    "nombre": "Leche entera 1 L",
+    "descripcion": "Leche entera larga vida en envase de un litro.",
+    "categoria": "Lácteos",
+    "precio": 1090,
+    "unidad": "unidad",
+    "stock": 30,
+    "imagen": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=900"
+  },
+  {
+    "id": "p-004",
+    "nombre": "Yogur natural 1 kg",
+    "descripcion": "Yogur natural familiar, sin sabor añadido.",
+    "categoria": "Lácteos",
+    "precio": 2490,
+    "unidad": "unidad",
+    "stock": 12,
+    "imagen": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=900"
+  },
+  {
+    "id": "p-005",
+    "nombre": "Arroz grado 1 kg",
+    "descripcion": "Arroz blanco grado 1 en formato de un kilogramo.",
+    "categoria": "Abarrotes",
+    "precio": 1590,
+    "unidad": "unidad",
+    "stock": 40,
+    "imagen": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=900"
+  },
+  {
+    "id": "p-006",
+    "nombre": "Aceite vegetal 900 ml",
+    "descripcion": "Aceite vegetal para cocinar y preparar alimentos.",
+    "categoria": "Abarrotes",
+    "precio": 2190,
+    "unidad": "unidad",
+    "stock": 16,
+    "imagen": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=900"
+  },
+  {
+    "id": "p-007",
+    "nombre": "Agua mineral 1,5 L",
+    "descripcion": "Agua mineral sin gas en botella de un litro y medio.",
+    "categoria": "Bebidas",
+    "precio": 990,
+    "unidad": "unidad",
+    "stock": 25,
+    "imagen": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=900"
+  },
+  {
+    "id": "p-008",
+    "nombre": "Jugo de naranja 1 L",
+    "descripcion": "Jugo de naranja en envase de un litro.",
+    "categoria": "Bebidas",
+    "precio": 1790,
+    "unidad": "unidad",
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=900"
+  },
+  {
+    "id": "p-009",
+    "nombre": "Detergente líquido 1 L",
+    "descripcion": "Detergente líquido para el lavado de ropa.",
+    "categoria": "Limpieza",
+    "precio": 3990,
+    "unidad": "unidad",
+    "stock": 9,
+    "imagen": "https://images.unsplash.com/photo-1585421514738-01798e348b17?w=900"
+  },
+  {
+    "id": "p-010",
+    "nombre": "Verduras congeladas 500 g",
+    "descripcion": "Mezcla de verduras congeladas en bolsa de 500 gramos.",
+    "categoria": "Congelados",
+    "precio": 2290,
+    "unidad": "unidad",
+    "stock": 14,
+    "imagen": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=900"
+  }
+]
